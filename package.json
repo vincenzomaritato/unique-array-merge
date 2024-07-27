@@ -1,0 +1,54 @@
+{
+  "name": "unique-array-merge",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library to create an array of unique values, in order, from multiple input arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincenzomaritato/unique-array-merge.git"
+  },
+  "keywords": [
+    "array",
+    "unique",
+    "merge",
+    "combine",
+    "deduplicate",
+    "library",
+    "utility",
+    "order",
+    "unique",
+    "values",
+    "array",
+    "merge",
+    "array",
+    "combine"
+  ],
+  "funding": "https://github.com/sponsors/vincenzomaritato",
+  "author": {
+    "name": "Vincenzo Maritato",
+    "email": "vincenzomaritato2005@gmail.com",
+    "url": "https://spacehubnetwork.com"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "license": "MIT",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/vincenzomaritato/unique-array-merge/issues"
+  },
+  "homepage": "https://github.com/vincenzomaritato/unique-array-merge#readme",
+  "devDependencies": {
+    "ava": "^6.1.3",
+    "tsd": "^0.31.1"
+  }
+}
