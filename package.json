@@ -1,6 +1,6 @@
 {
   "name": "unique-array-merge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight JavaScript library to create an array of unique values, in order, from multiple input arrays.",
   "main": "index.js",
   "scripts": {
